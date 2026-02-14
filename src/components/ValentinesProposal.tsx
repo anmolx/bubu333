@@ -176,7 +176,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
            Thank you for accepting, I love you my puchkiii !!! 💕 <br />
-
+            You are the most speical girl in my life baby 🥺
             <p className="text-sm mt-4"> Low efforts dene ke liye maafi madam ji 😞🙏</p>
             <Image
               src="/hamster_jumping.gif"
